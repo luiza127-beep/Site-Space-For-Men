@@ -39,4 +39,10 @@ ul {
     width: 50%;
 }
 
-
+footer {
+    text-align: center;
+    background-image: url(img/bg.jpg);
+    color: white;
+    padding: 40px 0;
+    font-size: 13px;
+}
